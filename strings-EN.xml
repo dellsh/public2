@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">400</string>
+    <string name="main_btn_security">Security</string>
+    <string name="main_btn_smart">Smart</string>
+    <string name="main_btn_talk">Intercom</string>
+    <string name="main_btn_service">Service</string>
+    <string name="main_btn_setup">Setup</string>
+    <string name="main_btn_center">CONCIERGE</string>
+    <string name="main_btn_monitor">AUTO ON</string>
+    <string name="main_btn_talking">EXTERCOM</string>
+    <string name="main_btn_house">INTERCOM</string>
+    <string name="main_btn_logger">CALL LOG</string>
+    <string name="main_btn_alarm">ALARM LOG</string>
+    <string name="main_btn_elevator">LIFT</string>
+    <string name="main_btn_message">MESSAGE</string>
+    <string name="main_btn_disturb">DND</string>
+    <string name="main_btn_sos">SOS</string>
+    <string name="main_btn_scene">SCENES</string>
+    <string name="main_btn_swiches">ACTUATORS</string>
+    <string name="main_btn_call">CALL APART.</string>
+    <string name="main_btn_call_list">DIRECTORY</string>
+    <string name="main_btn_mode">MODE</string>
+    <string name="main_btn_call_transfer">FORWARD</string>
+    <string name="main_miss_text">MISSED CALL</string>
+
+    <string name="setup_btn_sys">System</string>
+    <string name="setup_btn_other">Other</string>
+    <string name="setup_btn_version">Version</string>
+    <string name="setup_btn_ok">O K</string>
+
+    <string name="setup_sys_lang">Language:</string>
+    <string name="setup_sys_volume">Volume:</string>
+    <string name="setup_sys_ring">Ring:</string>
+
+    <string name="setup_version_sys">System:</string>
+    <string name="setup_version_talk">Talk UI:</string>
+    <string name="setup_version_smart">Smart:</string>
+    <string name="setup_version_security">Security:</string>
+    <string name="setup_version_sn">SN:</string>
+    <string name="setup_version_sn_ok">Licenced</string>
+    <string name="setup_version_sn_err">Error</string>
+    <string name="setup_version_boot">BOOT:</string>
+    
+    <string name="sos_sent">SOS SENT</string>
+    <string name="sos_unable">SOS DEACTIVATED</string>
+    <string name="app_error">APP ERROR</string>
+    <string name="onoff_error">FUNCTION NOT ACTIVATED</string>
+    <string name="ip_error">IP CONFLICT, MAC</string>
+     <string name="miss_error">MISSED CALL</string>
+</resources>
